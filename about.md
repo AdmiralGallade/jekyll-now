@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A second year student
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Studying at York University,
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kushagra@my.yorku.ca](mailto:kushagra@my.yorku.ca)
